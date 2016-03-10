@@ -1,0 +1,32 @@
+{
+  "name": "laravel-elixir-licensify",
+  "description": "Laravel Elixir Licensify Support",
+  "version": "0.0.0",
+  "author": "Takahito Nakano",
+  "bugs": {
+    "url": "https://github.com/ponko2/laravel-elixir-licensify/issues"
+  },
+  "dependencies": {
+    "licensify": "^3.0.0",
+    "object-assign": "^4.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^2.3.0",
+    "eslint-config-ponko2": "^2.2.0"
+  },
+  "homepage": "https://github.com/ponko2/laravel-elixir-licensify",
+  "keywords": [
+    "elixir",
+    "laravel",
+    "licensify"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ponko2/laravel-elixir-licensify.git"
+  },
+  "scripts": {
+    "lint": "eslint ."
+  }
+}
