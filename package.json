@@ -11,8 +11,8 @@
     "object-assign": "^4.0.1"
   },
   "devDependencies": {
-    "eslint": "^2.3.0",
-    "eslint-config-ponko2": "^3.6.0"
+    "eslint": "^3.0.0",
+    "eslint-config-ponko2": "^4.0.0"
   },
   "homepage": "https://github.com/ponko2/laravel-elixir-licensify",
   "keywords": [
