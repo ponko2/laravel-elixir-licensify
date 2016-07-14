@@ -3,7 +3,9 @@
 ## Install
 
 ```sh
+$ npm install laravel-elixir-browserify-official --save-dev
 $ npm install laravel-elixir-licensify --save-dev
+$ npm install licensify --save-dev
 ```
 
 ## Usage
