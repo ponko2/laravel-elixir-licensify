@@ -7,6 +7,7 @@
     "url": "https://github.com/ponko2/laravel-elixir-licensify/issues"
   },
   "dependencies": {
+    "licensify": "^3.1.2",
     "object-assign": "^4.1.0"
   },
   "devDependencies": {
@@ -27,7 +28,6 @@
   "license": "MIT",
   "main": "lib/index.js",
   "peerDependencies": {
-    "licensify": "^3.1.2",
     "laravel-elixir": ">=6.0.0-9",
     "laravel-elixir-browserify-official": "^0.1.3"
   },
