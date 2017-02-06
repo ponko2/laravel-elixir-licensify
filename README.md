@@ -1,5 +1,7 @@
 # laravel-elixir-licensify
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ponko2/laravel-elixir-licensify.svg)](https://greenkeeper.io/)
+
 ## Install
 
 ```sh
